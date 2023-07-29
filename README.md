@@ -9,20 +9,20 @@ The app provides an engaging user interface with smooth animations and interacti
 4. Support for different screen sizes and devices for responsive gameplay.
 
 #Demo
-You can see a live demo of the Memory App by visiting the following link: [Live Demo](https://harshith-memory-game.netlify.app/)https://harshith-memory-game.netlify.app
+You can see a live demo of the Memory App by visiting the following link: [Live Demo](https://harshith-memory-game.netlify.app/)
 
 #Technologies Used
 The Memory App is built using the following technologies:
 
-React.js: A popular JavaScript library for building user interfaces.
-CSS: Styling the components and creating animations.
-HTML: The structure of the web pages.
+1. React.js: A popular JavaScript library for building user interfaces.
+2. CSS: Styling the components and creating animations.
+3. HTML: The structure of the web pages.
 
 #Contributing
 Contributions are welcome! If you find any issues with the app or want to enhance it with new features, follow these steps:
 
-Fork the repository.
-Create a new branch for your feature: git checkout -b feature-name
-Make your changes and commit them: git commit -m "Add feature-name"
-Push to the branch: git push origin feature-name
-Submit a pull request.
+1. Fork the repository.
+2. Create a new branch for your feature: git checkout -b feature-name
+3. Make your changes and commit them: git commit -m "Add feature-name"
+4. Push to the branch: git push origin feature-name
+5. Submit a pull request.
