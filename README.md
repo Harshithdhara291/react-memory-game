@@ -8,17 +8,17 @@ The app provides an engaging user interface with smooth animations and interacti
 3. Randomized card positions for a new game experience on each attempt.
 4. Support for different screen sizes and devices for responsive gameplay.
 
-**Demo**
-You can see a live demo of the Memory App by visiting the following link:**[Live Demo](https://harshith-memory-game.netlify.app/)**
+**Demo** : 
+You can see a live demo of the Memory App by visiting the following link: **[Live Demo](https://harshith-memory-game.netlify.app/)**
 
-**Technologies Used**
+**Technologies Used** : 
 The Memory App is built using the following technologies:
 
 1. **React.js**: A popular JavaScript library for building user interfaces.
 2. **CSS**: Styling the components and creating animations.
 3. **HTML**: The structure of the web pages.
 
-**Contributing**
+**Contributing** : 
 Contributions are welcome! If you find any issues with the app or want to enhance it with new features, follow these steps:
 
 1. Fork the repository.
