@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Card from '../EachCard'
+import EachCard from '../EachCard'
 import './index.css'
 
 const imagesArray = [
@@ -55,7 +55,7 @@ const AllCards = () => {
     return (
         <div className="container">
             { cards.map((item, index) => (
-                <Card key={index} item={item} id={index} onClick={onClick} />
+                <EachCard key={index} item={item} id={index} onClick={onClick} />
             )) }
         </div>
     )

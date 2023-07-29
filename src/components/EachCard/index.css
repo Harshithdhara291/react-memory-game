@@ -5,7 +5,7 @@
     align-items: center;
     border-radius: 5px;
     transform: rotateY(180deg);
-    animation: 2s hideCard linear;
+    animation: 2s flipCard linear;
     transition: transform 0.5s;
     height: 150px;
     width: 150px;
@@ -14,7 +14,7 @@
 }
 
 
-  @keyframes hideCard{
+  @keyframes flipCard{
     0%, 70%{
       transform: rotateY(0);
     }
@@ -27,9 +27,9 @@
     max-height: 60%;
     transition: transform 0.5s;
     transform: scale(0);
-    animation: 2s hideImage linear;
+    animation: 2s flipImage linear;
   }
-  @keyframes hideImage{
+  @keyframes flipImage{
     0%, 70%{
       transform: scale(1);
     }

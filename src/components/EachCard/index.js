@@ -1,7 +1,7 @@
 import './index.css'
 
-function Card({item, id, onClick}){
-    console.log(item.status)
+const EachCard = ({item, id, onClick}) => {
+    
     const itemClass = item.status ? " active " + item.status : ""
 
     return (
@@ -11,4 +11,4 @@ function Card({item, id, onClick}){
     )
 }
 
-export default Card
+export default EachCard
